@@ -1,5 +1,5 @@
-# Software Fundamentals - Assessment 3
-# A research repository that includes:
+# IT5016D - Assessment three...
+# research repository that includes:
 # - a collection of your own codes
 # - codes that you've been inspired by or practiced (with comments)
 # - things that you think are interesting or just don't understand (with comments)
